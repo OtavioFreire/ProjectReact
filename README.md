@@ -1,2 +1,2 @@
 # ProjectReact
-Projeto desenvolvido com react afim de adquirir mais conhecimento sobre o react
+Project developed with react in order to acquire more knowledge about react
